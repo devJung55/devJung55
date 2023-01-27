@@ -1,16 +1,16 @@
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=0:EEFF00,100:a82da8&height=200&width=100%&section=header&text=Hi_J.W&fontSize=60)<br>
-<h2>✨Hello, I'm JongWook!✨</h2>
+<h2>✨Hello, I'm Ji Young!✨</h2>
 
 <br>
-안녕하세요! 백엔드 개발자 준비중인 임종욱입니다!!<br>
+안녕하세요! 예비 백엔드 개발자 정지영입니다!!<br>
 "Courage is very important when it comes to anything" <br><br>
 <img src="https://c.tenor.com/Bklo77mJokoAAAAC/tenor.gif" width="30%">
 <h2>🎈About Me🎈</h2>
 🎓Graduated : DongSeoul University<br>
 📜Certificated Korea IT program in Seoul<br>
-💌Email : dnrwhddla300@naver.com<br>
+💌Email : jung_7122@naver.com<br>
 
 # 💻Tech Stack
 
@@ -39,7 +39,7 @@
 ![Sourcetree](https://img.shields.io/badge/Sourcetree-0052CC.svg?style=flat&logo=Sourcetree&logoColor=white)
 
 # 📊GitHub Stats :
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WookCoding&show_icons=true&theme=algolia )
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devJung55&show_icons=true&theme=algolia )
 </div>
 
 Footer
