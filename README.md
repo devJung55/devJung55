@@ -1,5 +1,5 @@
 <div align=center>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=250&section=header&text=Jiyoung's%20Github&fontSize=60"  style ="width : 1000px; height:200px"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=250&section=header&text=Jiyoung's%20Github&fontSize=60"  style ="width : 1000px; height:300px"/>
 </div>
 
 ## Profile
