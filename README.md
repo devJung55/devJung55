@@ -7,6 +7,10 @@
 👶 1997.05.05 <br>
 📞 010-7122-8966 <br>
 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:spiltkim99@gmail.com)](mailto:spiltkim99@gmail.com) <span><a href="[https://www.notion.so/3b772d5e640945bcbc6898805aaa0bdf](https://www.notion.so/36c68f5b9842423789d3ddea65e69b87)"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>
+
+
+
 ## Skills
 
 | Back-End | Front-End | Database | IDE |
