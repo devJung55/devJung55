@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=0:EEFF00,100:a82da8&height=400&width=1000px&section=header&text=JiYoung's%20Github&fontSize=60)<br>
-<h2>✨Hello, I'm Ji Young!✨</h2>
+![header](https://capsule-render.vercel.app/api?type=waving&&color=0:EEFF00,100:a82da8&height=270&width=1000px&section=header&text=JiYoung's%20Github&fontSize=60)<br>
 
 <br>
 안녕하세요! 예비 백엔드 개발자 정지영입니다!!<br>
