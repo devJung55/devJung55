@@ -2,11 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=200&section=header&text=Jiyoung's%20Github&fontSize=60"  style ="width : 1000px; height:400px"/>
 </div>
 
-<br>
-안녕하세요! 예비 백엔드 개발자 정지영입니다!!<br>
-"Courage is very important when it comes to anything" <br><br>
-<img src="https://c.tenor.com/Bklo77mJokoAAAAC/tenor.gif" width="30%">
-
 ## Profile
 👩 정지영 <br>
 👶 1997.05.05 <br>
