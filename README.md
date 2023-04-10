@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=0:EEFF00,100:a82da8&height=270&width=1000px&section=header&text=JiYoung's%20Github&fontSize=60)<br>
 <div> align=center>
-  <img src="https://capsule-render.vercel.app/api?type=waving&&color=0:EEFF00,100:a82da8&section=header&text=JiYoung's%20Github&fontSize=60" style="width: 1000px; height: 270"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&&color=0:EEFF00,100:a82da8&section=header&text=JiYoung's%20Github&fontSize=60" style="width: 1000px; height: 400px"/>
 </div>
 
 <br>
