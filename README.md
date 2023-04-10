@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=0:EEFF00,100:a82da8&height=400&width=100%&section=header&text=JiYoung's%20Github&fontSize=60)<br>
+![header](https://capsule-render.vercel.app/api?type=waving&&color=0:EEFF00,100:a82da8&height=400&width=1000px&section=header&text=JiYoung's%20Github&fontSize=60)<br>
 <h2>✨Hello, I'm Ji Young!✨</h2>
 
 <br>
