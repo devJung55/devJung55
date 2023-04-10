@@ -1,9 +1,5 @@
 <div align=center>
-  <img src="https://capsule-render.vercel.app/api?type=waving&&color=0:EEFF00,100:a82da8&height=300&section=header&text=JiYoung's%20Github&fontSize=60" style ="width : 1000px; height:270px"/>
-</div>
-
-<div align=center>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=300&section=header&text=Inyoung's%20Github&fontSize=60"  style ="width : 1000px; height:400px"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=300&section=header&text=Jiyoung's%20Github&fontSize=60"  style ="width : 1000px; height:400px"/>
 </div>
 
 <br>
