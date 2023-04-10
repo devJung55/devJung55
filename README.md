@@ -1,7 +1,7 @@
 <div align=center>
-  <img src="https://capsule-render.vercel.app/api?type=waving&&color=0:EEFF00,100:a82da8&height=300&section=header&text=JiYoung's%20Github&fontSize=60" style ="width : 1000px; height:700px"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&&color=0:EEFF00,100:a82da8&height=300&section=header&text=JiYoung's%20Github&fontSize=60" style ="width : 1000px; height:400px"/>
 </div>
-
+![header](https://capsule-render.vercel.app/api?type=waving&&color=0:EEFF00,100:a82da8&height=200&width=100%&section=header&text=Hi_J.Y&fontSize=60)
 <br>
 안녕하세요! 예비 백엔드 개발자 정지영입니다!!<br>
 "Courage is very important when it comes to anything" <br><br>
